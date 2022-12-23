@@ -13,3 +13,15 @@
 [submodule "pet-3-networks-hub-and-spoke"]
 	path = pet-3-networks-hub-and-spoke
 	url = git@github.com:0lehKondratov/pet-3-networks-hub-and-spoke.git
+[submodule "pet-4-projects"]
+	path = pet-4-projects
+	url = git@github.com:0lehKondratov/pet-4-projects.git
+[submodule "pet-5-infrastructure"]
+	path = pet-5-infrastructure
+	url = git@github.com:0lehKondratov/pet-5-infrastructure.git
+[submodule "pet-6-anthos-install"]
+	path = pet-6-anthos-install
+	url = git@github.com:0lehKondratov/pet-6-anthos-install.git
+[submodule "pet-7-app-build-deploy"]
+	path = pet-7-app-build-deploy
+	url = git@github.com:0lehKondratov/pet-7-app-build-deploy.git
