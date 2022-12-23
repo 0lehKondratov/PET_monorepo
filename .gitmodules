@@ -1,3 +1,15 @@
 [submodule "pet-0-bootstrap"]
 	path = pet-0-bootstrap
 	url = git@github.com:0lehKondratov/pet-0-bootstrap.git
+[submodule "pet-1-org"]
+	path = pet-1-org
+	url = git@github.com:0lehKondratov/pet-1-org.git
+[submodule "pet-2-environments"]
+	path = pet-2-environments
+	url = git@github.com:0lehKondratov/pet-2-environments.git
+[submodule "pet-3-networks-dual-svpc"]
+	path = pet-3-networks-dual-svpc
+	url = git@github.com:0lehKondratov/pet-3-networks-dual-svpc.git
+[submodule "pet-3-networks-hub-and-spoke"]
+	path = pet-3-networks-hub-and-spoke
+	url = git@github.com:0lehKondratov/pet-3-networks-hub-and-spoke.git
