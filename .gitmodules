@@ -1,0 +1,3 @@
+[submodule "pet-0-bootstrap"]
+	path = pet-0-bootstrap
+	url = git@github.com:0lehKondratov/pet-0-bootstrap.git
